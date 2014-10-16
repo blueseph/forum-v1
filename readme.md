@@ -1,3 +1,3 @@
 ###Demo
 
-[Forums V1](http://eeatc.com/projects/board-v1/)
+[Forums V1](http://blueseph.me/projects/board-v1/)
